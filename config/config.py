@@ -95,7 +95,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Moonshining1/Moonmusiccx",
+    "https://github.com/CHALCOGEN645/penguin",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -108,14 +108,14 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/kittyxupdates"
+    "SUPPORT_CHANNEL", "https://t.me/+qpkUD4n0e8AzODQ8"
 )  # Example:- https://t.me/VIP_CREATORS
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/+PJlewyGw0w0yYTg1"
+    "SUPPORT_GROUP", "https://t.me/+UFYcQJKqRLA2MWVk"
 )  # Example:- https://t.me/TG_FRIENDSS
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/+PJlewyGw0w0yYTg1"
+    "SUPPORT_GROUP", "https://t.me/+UFYcQJKqRLA2MWVk"
 )  # Example:- https://t.me/TG_FRIENDSS
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -138,7 +138,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Moonshining1/Moonmusiccx")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/CHALCOGEN645/Penguin")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -211,7 +211,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://telegra.ph/file/562a071a222f60c93f45a.jpg",
+    "https://telegra.ph/file/9b216a63b96955753dca6.jpg",
 )
 
 PING_IMG_URL = getenv(
